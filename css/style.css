@@ -142,7 +142,7 @@ div.post {
 
 div.summary {
     margin-top:50px;
-    height:150px;
+    min-height:150px;
 }
 
 div.summary-text {
