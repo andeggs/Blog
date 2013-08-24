@@ -25,4 +25,4 @@ By splitting authoring and production, Jekyll allows a marketplace of editing to
 
 It should also make it easier to create custom editing tools, or automated tools, for organisations or other multi-editor environments. Unlike Wordpress plugins, which have to be updated with each version upgrade, a tool for Jekyll would be self-sufficient as long as it produced Markdown. And because they would live outside of the CMS, bespoke tools could be written in the most suitable language, not just PHP.
 
-Jekyll and Prose.io are still young and there no reason to suspect that the major CMSs will be dislodged soon. But they point to an interesting future and are worth investigating.
+Jekyll and Prose.io are still young and there no reason to suspect that the major CMSs will be dislodged soon. But they point to an interesting future and are worth following closely.
