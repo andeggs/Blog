@@ -187,6 +187,10 @@ span.next {
         margin-top:50px;
     }
 
+    div.summary-text {
+        clear:both;
+    }
+
     div.pagination {
         margin-top:50px;
     }
