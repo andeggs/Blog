@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: /assets/MG_8349.jpg
-thumbnail: /assets/MG_8349c.jpg
+cover: "/assets/2012-09-04/1600_250.jpg"
+thumbnail: "/assets/2012-09-04/200_125.jpg"
 title: What the web wants you to do
 ---
 
