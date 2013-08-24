@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: /assets/MG_8349.jpg
-thumbnail: /assets/MG_8349c.jpg
+cover: "/assets/2013-08-02/1600_250.jpg"
+thumbnail: "/assets/2013-08-02/200_125.jpg"
 title: Open source
 ---
 
