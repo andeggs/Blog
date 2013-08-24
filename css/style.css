@@ -219,7 +219,7 @@ span.next {
         font-size:20px;
     }
 
-    .post p {
+    .post p, .post li {
         font-size:18px;
     }
 
