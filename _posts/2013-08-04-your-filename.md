@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Not my filename
-cover: /assets/_MG_8349.jpg
-thumbnail: /assets/_MG_8349c.jpg
+cover: /assets/MG_8349.jpg
+thumbnail: /assets/MG_8349c.jpg
 ---
 
 test
