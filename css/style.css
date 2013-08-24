@@ -152,6 +152,18 @@ div.footer {
     background-color:white;
 }
 
+div.pagination {
+    margin-top:50px;
+}
+
+.pagination p {
+    font-size:16px;
+}
+
+span.next { 
+    float:right;
+}
+
 @media only screen and (max-width: 799px) {
     
     div.post {
@@ -160,6 +172,10 @@ div.footer {
     }
 
     div.summary {
+        margin-top:50px;
+    }
+
+    div.pagination {
         margin-top:50px;
     }
 
@@ -178,12 +194,6 @@ div.footer {
         margin:auto;
     }
 
-}
-
-@media only screen and (max-width: 499px) {
-    /*.summary-text p  {
-        display:none;
-    }*/
 }
 
 @media only screen and (max-width: 430px) {
