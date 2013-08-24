@@ -1,4 +1,5 @@
 name: digitalshift.me
+description: A blog about digital strategy and change
 markdown: redcarpet
 pygments: false
 baseurl: http://digitalshift.me
