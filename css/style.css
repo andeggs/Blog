@@ -164,6 +164,10 @@ div.pagination {
     margin-top:50px;
 }
 
+#disqus_thread {
+    margin-top:50px;
+}
+
 .pagination p {
     font-size:16px;
 }
