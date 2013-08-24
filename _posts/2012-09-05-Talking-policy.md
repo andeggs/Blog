@@ -2,7 +2,7 @@
 published: true
 layout: post
 cover: "/assets/2012-09-05/1600_250.jpg"
-thumbnail: "/assets2012-09-05/200_125.jpg"
+thumbnail: "/assets/2012-09-05/200_125.jpg"
 title: Talking policy
 ---
 
