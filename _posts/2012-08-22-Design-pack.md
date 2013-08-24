@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: "/assets/2012-08-22/1600_250.jpg"
-thumbnail: "/assets/2012-08-22/200_125.jpg"
+cover: /assets/2012-08-22/1600_250.jpg
+thumbnail: /assets/2012-08-22/200_125.jpg
 title: Design pack
 ---
 
