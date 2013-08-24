@@ -187,10 +187,6 @@ span.next {
         margin-top:50px;
     }
 
-    div.summary-text {
-        clear:both;
-    }
-
     div.pagination {
         margin-top:50px;
     }
@@ -233,6 +229,7 @@ span.next {
 
     div.summary-text h1 {
         margin-top:20px;
+        clear:both;
     }
 
     div.summary-text {
