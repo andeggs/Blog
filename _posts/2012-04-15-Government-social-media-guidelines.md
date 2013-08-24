@@ -5,6 +5,7 @@ cover: /assets/MG_8349.jpg
 thumbnail: /assets/MG_8349c.jpg
 title: Government social media guidelines
 ---
+
 This week I went to my first teacamp - an informal meetup for people working on digital in government. The topic was what should be in the forthcoming social media guidance for public servants.
 
 ## Personal v professional
@@ -26,13 +27,13 @@ Think of this: today you could scrape LinkedIn for a list of Twitter handles of 
 
 The web will increasingly expose inconsistencies like this.
 
-What's actually happening is that the idea of the organisation is under attack. It was always the case that people's personal and professional lives were inconsistent – it's just that the web is now finally exposing this.
+What's actually happening is that the idea of the organisation is under attack. It was always the case that people's personal and professional lives were inconsistent - it's just that the web is now finally exposing this.
 
 ## The personal is political
 
 Let's also remember that every statement, however seemingly innocuous, carries implicit value judgements and is in some sense 'political'.
 
-The words we use, the sources we read, the thoughts that occupy us (or not) reveal our values – and it is these values that are at the heart of political debate.
+The words we use, the sources we read, the thoughts that occupy us (or not) reveal our values - and it is these values that are at the heart of political debate.
 
 Tweeting that you enjoyed The Matrix is 'personal', until you realise that someone else saw it as a Christian metaphor and others as a dystopian warning about out-of-control technology. And someone else thinks you should only be watching films about their pet issue anyway.
 
