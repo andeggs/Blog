@@ -7,6 +7,7 @@ title: What the web wants you to do
 ---
 
 It wants you to:
+
 - **co-create** with customers and audiences
 - **disassemble** packages into their constituent parts
 - **disintermediate** between users and value-producers
