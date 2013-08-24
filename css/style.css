@@ -173,10 +173,6 @@ span.next {
 }
 
 @media only screen and (max-width: 799px) {
-    
-    p {
-        font-color:red;
-    }
 
     div.post {
         width:100%;
@@ -215,12 +211,16 @@ span.next {
 
 @media only screen and (max-width: 641px) {
     
-    h1 {
+    .post h1 {
         font-size:24px;
     }
 
-    h2 {
+    .post h2 {
         font-size:20px;
+    }
+
+    .post p {
+        font-size:18px;
     }
 
     div.summary-text h1 {
@@ -230,10 +230,6 @@ span.next {
     div.summary-text {
         padding-left:0px;
     }    
-
-    p {
-        font-size:18px;
-    }
 
     p.date {
         font-size:16px;
