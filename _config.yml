@@ -1,5 +1,5 @@
 name: digitalshift.me
 markdown: redcarpet
 pygments: false
-baseurl: /
+baseurl: 
 paginate: 5
