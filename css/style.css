@@ -6,6 +6,13 @@ h1 {
     clear:both;
 }
 
+h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size:26px;
+}
+
 p { 
     font-family:'Open Sans',sans-serif;
     font-size:22px;
@@ -184,6 +191,11 @@ span.next {
         margin-right: 10px;
     }
 
+    .post h2 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .post p {
         margin-left: 10px;
         margin-right: 10px;
@@ -200,6 +212,10 @@ span.next {
     
     h1 {
         font-size:24px;
+    }
+
+    h2 {
+        font-size:20px;
     }
 
     div.summary-text h1 {
