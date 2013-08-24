@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: "/assets/2013-08-24/1600_250.jpg"
-thumbnail: "/assets/2013-08-24/200_125.jpg"
+cover: "/assets/2013-08-24/1600_250.png"
+thumbnail: "/assets/2013-08-24/200_125.png"
 ---
 
 As you can see, I've refreshed this blog's design. 
