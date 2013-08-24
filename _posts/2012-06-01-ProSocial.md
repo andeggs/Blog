@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: /assets/MG_8349.jpg
-thumbnail: /assets/MG_8349c.jpg
+cover: "/assets/2012-06-01/1600_250.jpg"
+thumbnail: "/assets/2012-06-01/250_125.jpg"
 title: ProSocial
 ---
 
