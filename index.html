@@ -8,7 +8,7 @@ published: true
 </div>
 {% for post in site.posts %}
 <div class="post summary">
-	<a href="{{ site.baseurl }}{{ post.url }}"><img class="summary" src="assets/_MG_8349c.jpg" /></a>
+	<a href="{{ site.baseurl }}{{ post.url }}"><img class="summary" src="{{ site.url }}{{ post.thumbnail }}" /></a>
 	<div class="summary-text">
 		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 		<p class="date">{{ post.date | date_to_long_string }}</p>
