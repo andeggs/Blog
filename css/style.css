@@ -209,7 +209,7 @@ span.next {
 
 }
 
-@media only all and (max-width: 641px) {
+@media all and (max-width: 641px) {
     
     h1 {
         font-size:24px;
