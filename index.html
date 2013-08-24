@@ -18,12 +18,12 @@ published: true
 {% endfor %}
 <div class="post pagination">
       {% if paginator.previous_page %}
-        <p><a href="/page{{ paginator.previous_page }}">Previous</a>
+        <p><a href="{{ site.baseurl }}page{{ paginator.previous_page }}">Previous</a>
       {% else %}
         <p>&nbsp;
       {% endif %}
       {% if paginator.next_page %}
-        <span class="next "><a href="/page{{ paginator.next_page }}">Next</a></span></p>
+        <span class="next "><a href="{{ site.baseurl }}page{{ paginator.next_page }}">Next</a></span></p>
       {% else %}
         &nbsp;</p>
       {% endif %}
