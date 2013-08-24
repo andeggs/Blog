@@ -13,7 +13,7 @@ h2 {
     font-size:26px;
 }
 
-p { 
+p, li { 
     font-family:'Open Sans',sans-serif;
     font-size:22px;
     font-weight:300;
@@ -23,13 +23,13 @@ p {
     clear:both;
 }
 
-p strong {
+p strong, li strong {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
 }
 
-p em {
+p em, li em {
     font-family: 'Open Sans';
     font-style: italic;
     font-weight: 300;
