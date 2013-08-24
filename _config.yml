@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
+name: digitalshift.me
 markdown: redcarpet
 pygments: false
-baseurl: /Blog
+baseurl: /
 paginate: 5
