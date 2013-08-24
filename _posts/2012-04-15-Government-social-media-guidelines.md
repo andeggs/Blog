@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-cover: "/assets/2012-04-15/1600_200.jpg"
-thumbnail: "/assets/2012-04-15/250_125.jpg"
+cover: "/assets/2012-04-15/1600_250.jpg"
+thumbnail: "/assets/2012-04-15/200_125.jpg"
 title: Government social media guidelines
 ---
 
