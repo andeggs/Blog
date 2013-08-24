@@ -172,7 +172,7 @@ span.next {
     float:right;
 }
 
-@media only screen and (max-width: 799px) {
+@media all and (max-width: 799px) {
     
     div.post {
         width:100%;
