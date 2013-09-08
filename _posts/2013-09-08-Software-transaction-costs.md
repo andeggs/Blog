@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: "/assets/2013-08-09/NY_stock_exchange_1600_250.jpg"
-thumbnail: "/assets/2013-08-09/NY_stock_exchange_200_125.jpg"
+cover: "/assets/2013-09-08/NY_stock_exchange_1600_250.jpg"
+thumbnail: "/assets/2013-09-08/NY_stock_exchange_200_125.jpg"
 ---
 
 Nobel prize winner [Ronald Coase](http://en.wikipedia.org/wiki/Ronald_Coase) died this week.
