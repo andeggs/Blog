@@ -18,4 +18,6 @@ One consequence of framing the problem like this is that it explains certain fea
 
 People concerned about software lock-in effects should support mechanisms which reduce perceived future transaction costs associated with buying small, independent pieces of software.
 
-It also suggests 
+It would also help buyers if they could readily calculate potential future switching costs, which may be significantly higher than the transaction costs. 
+
+In concrete terms, what would it cost a business (in capital or time) to switch, at a future date, from Microsoft Office to Google Docs, iOS to Android or .NET to PHP? Yes, such a calculation would be an estimate, but even ball-park figures would help buyers to make informed judgements about the benefits and costs involved in complex software decisions.
