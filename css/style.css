@@ -61,6 +61,7 @@ p.intro {
 
 .summary-text p {
     font-size:18px;
+    margin-top: 0px;
 }
 
 .summary-text p.date {
