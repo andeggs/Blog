@@ -19,8 +19,9 @@ p, li {
     font-weight:300;
     color:black;
     margin:0 auto;
-    margin-top:12px;
+    margin-top:25px;
     clear:both;
+    line-height:32px;
 }
 
 p strong, li strong {
