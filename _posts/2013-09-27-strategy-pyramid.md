@@ -2,13 +2,9 @@
 published: false
 ---
 
----
-published: false
----
+What tools can a digital leader use to reach their objectives?
 
-What tools does a digital leader have to reach their objectives?
-
-I've found it helpful to break the answer down into various conceptual 'levels', like this:
+I've found it helpful to break the answer down into various conceptual _levels_, like this:
 
 <table><tbody>
 <tr><td style="text-align:center">Objectives</td></tr>
@@ -19,7 +15,13 @@ I've found it helpful to break the answer down into various conceptual 'levels',
 </tbody></table>
 
 Here's what I mean by each one:
-- Objectives: Objectives to be achieved using digital media in order to achieve the overall business or organisational objectives
-- Strategy: The strategy for achieving the digital objectives
-- Relationships: The brand and the organisation's relationships with customers, audiences, suppliers, stakeholders and others.
-- Services: The 
+- _Objectives_: The aims of the business or organisation
+- _Strategy_: How the organisational objectives will be achieved
+- _Relationships_: The brand and the organisation's relationships with customers, audiences, suppliers, stakeholders and others.
+- _Services_: The organisation's products and services
+- _Communications_: What the organisation communicates to others
+- _Interactions_: How the organisation 
+
+
+how does digital fit in?
+go up and down the levels quickly
