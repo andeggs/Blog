@@ -19,22 +19,26 @@ I've found it helpful to break the answer down into various conceptual _levels_,
 
 ###Objectives and strategy###
 The highest level of the pyramid describes what the organisation is trying to achieve and how it plans to do so.
+
 - _Objectives_: The aims of the business or organisation
 - _Strategy_: How those organisational objectives will be achieved
 
 ###Core proposition###
 The second level describes what the organisation provides and its brand. Together these contribute to a strategy.
+
 - _Relationships_: The brand and the organisation's relationships with customers, audiences, suppliers, stakeholders and others.
 - _Services_: The organisation's products and services
 
 ###Interactive styles###
 The third level describes the styles of interaction: communicating, engaging and transacting. In different combinations these are used to form relationships and create services.
+
 - _Communications_: What the organisation communicates outwards to others
 - _Engagement_: How the organisation listens to, responds to and engages with others
 - _Transactions_: How the organisation deals with others
 
 ###Digital tools###
 The fourth level describes the key aspects of any digital solution.
+
 - _Design_: The flow, the constraints, the interface
 - _Content_: The words, the images, the the video
 - _Technology_: The functionality, the interoperability, the environment
