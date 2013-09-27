@@ -51,11 +51,16 @@ p strong em {
     font-weight: 600;
 }
 
-p.date {
-    /*font-style: italic;*/
+p.index-date {
     font-size:18px;
     color:gray;
     padding-bottom:0px;
+}
+
+p.post-date {
+    font-size:18px;
+    color:gray;
+    padding-bottom:25px;
 }
 
 p.intro {
