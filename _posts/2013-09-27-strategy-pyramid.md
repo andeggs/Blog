@@ -9,7 +9,7 @@ How should a digital leader think about their work?
 
 I've found it helpful to break the answer down into various conceptual _levels_, like this:
 
-<table><tbody>
+<table align="center"><tbody>
 <tr><td style="text-align:center">Objectives</td></tr>
 <tr><td style="text-align:center">Strategy</td></tr>
 <tr><td style="text-align:center">Relationships&emsp;&emsp;Services</td></tr>
