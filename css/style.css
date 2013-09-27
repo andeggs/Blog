@@ -29,6 +29,10 @@ li {
     padding-bottom:10px;
 }
 
+ul {
+    margin-top:0px;
+}
+
 p strong, li strong {
     font-family: 'Open Sans';
     font-style: normal;
