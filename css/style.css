@@ -19,7 +19,7 @@ p, li {
     font-weight:300;
     color:black;
     margin:0 auto;
-    margin-top:25px;
+    padding-bottom:25px;
     clear:both;
     line-height:32px;
 }
