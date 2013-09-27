@@ -4,7 +4,6 @@ layout: post
 cover: "/assets/2013-09-27/triangles_1600_250.png"
 thumbnail: "/assets/2013-09-27/triangles_200_125.png"
 ---
-
 How should a digital leader think about their work?
 
 I've found it helpful to break the answer down into various conceptual _levels_, like this:
