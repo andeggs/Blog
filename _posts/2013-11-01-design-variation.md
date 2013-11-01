@@ -16,6 +16,6 @@ The site which most consistently bucks this trend is [The Verge](http://www.thev
 
 According to [this Reddit AMA with the product team](http://www.reddit.com/r/web_design/comments/12gm3c/vox_media_product_team_builders_of_sb_nation/), this is handled in the CMS by letting each page include its own CSS snippets. There can then be dramatic design variation between articles, even though they are all still held in a central repository.
 
-This is an impressive technological achievement which gives The Verge a big advantage in a competitive media environment.
+This is an impressive technological achievement which gives The Verge a big advantage in a competitive media environment. Design variation is part of their process, not a collection of one-offs.
 
-It will be interesting to see what impact _Snow Fall_ continues to have and whether it forces other online media outlets to adopt similar technology.
+It will be interesting to see what impact Snow Fall continues to have and how media outlets respond to the challenge of consistently matching their designs to their content.
