@@ -8,7 +8,7 @@ The Guardian had their own take on the style with [Firestorm](http://www.theguar
 
 Snow Fall and Firestorm are meant to be immersive experiences. Regardless of whether their goal is wholly achieved, they do show the power of considering design in tandem with content.
 
-What's interesting is actually not whether their particular mix of longform text, full-screen imagery and HD video is exactly right but instead whether they show that web content as a whole is too uniform.
+What's interesting is actually not whether their particular mix of longform text, full-screen imagery and HD video is exactly right but instead how they highlight that web content as a whole is too uniform.
 
 On most websites, whether newspapers or otherwise, pages carry the same basic design styles such as page furniture, fonts and basic layouts. This suits brand owners - who want recognisability and trust, information architects - who want navigability through the site and developers - who want content consistency.
 
