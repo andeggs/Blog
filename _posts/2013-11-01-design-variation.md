@@ -6,7 +6,7 @@ published: false
 
 The Guardian had their own take on the style with [Firestorm](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family) and usvsth3m have even produced a parody (the ultimate compliment) with [Icefail](http://toys.usvsth3m.com/icefail/).
 
-Snow Fall and Firestorm are meant to be immersive experiences. Regardless of whether their goal is wholly achieved, they do show the power of considering design in tandem with content.
+_Snow Fall_ and _Firestorm_ are meant to be immersive experiences. Regardless of whether their goal is wholly achieved, they do show the power of considering design in tandem with content.
 
 What's interesting is actually not whether their particular mix of longform text, full-screen imagery and HD video is exactly right but instead how they highlight that web content as a whole is too uniform.
 
@@ -14,12 +14,8 @@ On most websites, whether newspapers or otherwise, pages carry the same basic de
 
 The site which most consistently bucks this trend is [The Verge](http://www.theverge.com), which regularly produces [feature articles](http://www.theverge.com/longform) each with their own unique designs.
 
-According to [this Reddit AMA with the product team](http://www.reddit.com/r/web_design/comments/12gm3c/vox_media_product_team_builders_of_sb_nation/), they handle this in the CMS by letting each page include its own CSS snippets.
+According to [this Reddit AMA with the product team](http://www.reddit.com/r/web_design/comments/12gm3c/vox_media_product_team_builders_of_sb_nation/), this is handled in the CMS by letting each page include its own CSS snippets. There can then be dramatic design variation between articles, even though they are all still held in a central repository.
 
-Very few articles have design variation
+This is an impressive technological achievement which gives The Verge a big advantage in a competitive media environment.
 
-http://shorthand.com/
-
-Bret Victor, The Verge/Vox Product
-
-Balance ('flexibility') between consistent and distinct
+It will be interesting to see what impact _Snow Fall_ continues to have and whether it forces other online media outlets to adopt similar technology.
