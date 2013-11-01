@@ -14,8 +14,7 @@ On most websites, whether newspapers or otherwise, pages carry the same basic de
 
 The site which most consistently bucks this trend is [The Verge](http://www.theverge.com), which regularly produces [feature articles](http://www.theverge.com/longform) each with their own unique designs.
 
-
-
+According to [this Reddit AMA with the product team](http://www.reddit.com/r/web_design/comments/12gm3c/vox_media_product_team_builders_of_sb_nation/), they handle this in the CMS by letting each page include its own CSS snippets.
 
 Very few articles have design variation
 
