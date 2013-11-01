@@ -12,6 +12,9 @@ What's interesting is actually not whether their particular mix of longform text
 
 On most websites, whether newspapers or otherwise, pages carry the same basic design styles such as page furniture, fonts and basic layouts. This suits brand owners - who want recognisability and trust, information architects - who want navigability through the site and developers - who want content consistency.
 
+The site which most consistently bucks this trend is [The Verge](http://www.theverge.com), which regularly produces [feature articles](http://www.theverge.com/longform) each with their own designs.
+
+
 Very few articles have design variation
 
 http://shorthand.com/
