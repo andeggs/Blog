@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 [The New York Times' Snow Fall article](http://www.nytimes.com/projects/2012/snow-fall/) continues to be [talked about online](http://martinbelam.com/2013/newsrewired_breaking_articles/) and at meetups.
