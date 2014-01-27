@@ -17,12 +17,12 @@ It struck me that there is a missing weapon in our arsenal: a language, a visual
 
 I don't know what the weapon would look like but I have developed some simple tools:
 
-- Project management system: a simple, generalised template for initiating projects of any size, along with a logging system.
-- Content promotion plan: a list of all the types of content with sign-off procedures and guidelines for social promotion.
-- Channel matrix: a grid indicating which channel (website, social media account, email list, RSS feed...) is for which audience.
-- Needs list: a list of needs for each audience
-- Needs template: a template for describing a need and the products and processes which are designed to meet it
-- Release checklists: a set of reminders for each stage of a product release: concept, specification, selection, launch, test
-- Dashboards: a set of real-time charts and tables showing key metrics for each channel
+- _Project management system_: a simple, generalised template for initiating projects of any size, along with a logging system.
+- _Content promotion plan_: a list of all the types of content with sign-off procedures and guidelines for social promotion.
+- _Channel matrix_: a grid indicating which channel (website, social media account, email list, RSS feed...) is for which audience.
+- _Needs list_: a list of needs for each audience
+- _Needs template_: a template for describing a need and the products and processes which are designed to meet it
+- _Release checklists_: a set of reminders for each stage of a product release: concept, specification, selection, launch, test
+- _Dashboards_: a set of real-time charts and tables showing key metrics for each channel
 
 How do we go from these simple tools to a more sophisticated media for thinking about digital?
