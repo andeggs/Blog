@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: /assets/2014-01-27/euclid_1600_250.png
-thumbnail: /assets/2014-01-27/euclid_200_125.png
+cover: /assets/2014-01-27/euclid_1600_250.jpg
+thumbnail: /assets/2014-01-27/euclid_200_125.jpg
 ---
 
 How do you visualise a digital system?
