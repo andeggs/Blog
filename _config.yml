@@ -4,6 +4,3 @@ markdown: redcarpet
 pygments: false
 baseurl: http://digitalshift.me
 paginate: 5
-prose: 
-    rooturl: '_posts'
-    media: 'assets'
