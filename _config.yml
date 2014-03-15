@@ -5,5 +5,5 @@ pygments: false
 baseurl: http://digitalshift.me
 paginate: 5
 prose: 
-    rooturl: 'Blog/tree/gh-pages/'
-    media: 'Blog/tree/gh-pages/assets'
+    rooturl: '_posts'
+    media: 'assets'
