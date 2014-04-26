@@ -20,23 +20,23 @@ In real life or online, a successful act of persuasion comes in three parts:
 This framework is helpful because questions can then be asked at each stage:
 
  - Telling a story
-    * Who are you telling it to? 
+    * _Who are you telling it to?_
       A customer/audience segment
-    * What’s the story? 
+    * _What’s the story?_
       An inviting journey wrapped around your idea
-    * How do you reach them? 
+    * _How do you reach them?_ 
       The right content delivered through the right channels
  - Have a conversation
-    * Who do they want to talk with? 
+    * _Who do they want to talk with?_ 
       Each other and you
-    * What do they want to talk about? 
+    * _What do they want to talk about?_ 
       Your idea and their experiences
-    * How should you host the conversation? 
+    * _How should you host the conversation?_ 
       The right social and community platforms
  - Lead to action
-    * What do you want them to do? 
+    * _What do you want them to do?_ 
       Fulfil their goals and yours
-    * How do they take action? 
+    * _How do they take action?_ 
       By changing their behaviour
 
 The answers form the beginnings of an online marketing plan.
