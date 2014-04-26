@@ -13,25 +13,27 @@ The same is true online. Whether you are selling a product or an idea, you have 
 
 In real life or online, a successful act of persuasion comes in three parts:
  - _Telling a story_ to entice people’s interest and give them a way to understand your idea on both rational and emotional levels.
+
  - _Hosting a conversation_ to help people interpret what they’ve heard and fit it into their worldviews.
+
  - _Leading to action_ to help people achieve their goals and yours.
 
 This framework is helpful because questions can then be asked at each stage:
-- Telling a story
+ - Telling a story
     * Who are you telling it to? 
       A customer/audience segment
     * What’s the story? 
       An inviting journey wrapped around your idea
     * How do you reach them? 
       The right content delivered through the right channels
-- Have a conversation
+ - Have a conversation
     * Who do they want to talk with? 
       Each other and you
     * What do they want to talk about? 
       Your idea and their experiences
     * How should you host the conversation? 
       The right social and community platforms
-- Lead to action
+ - Lead to action
     * What do you want them to do? 
       Fulfil their goals and yours
     * How do they take action? 
