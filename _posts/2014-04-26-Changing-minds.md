@@ -18,6 +18,7 @@ In real life or online, a successful act of persuasion comes in three parts:
  - _Leading to action_ to help people achieve their goals and yours.
 
 This framework is helpful because questions can then be asked at each stage:
+
  - Telling a story
     * Who are you telling it to? 
       A customer/audience segment
