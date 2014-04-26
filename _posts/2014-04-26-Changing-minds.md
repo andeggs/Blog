@@ -12,9 +12,9 @@ It took me a while to learn that logic, rhetoric and emotion aren’t always the
 The same is true online. Whether you are selling a product or an idea, you have to start by  acknowledging that your customer or audience will respond better if they feel in control.
 
 In real life or online, a successful act of persuasion comes in three parts:
-- _Telling a story_ to entice people’s interest and give them a way to understand your idea on both rational and emotional levels.
-- _Hosting a conversation_ to help people interpret what they’ve heard and fit it into their worldviews.
-- _Leading to action_ to help people achieve their goals and yours.
+ - _Telling a story_ to entice people’s interest and give them a way to understand your idea on both rational and emotional levels.
+ - _Hosting a conversation_ to help people interpret what they’ve heard and fit it into their worldviews.
+ - _Leading to action_ to help people achieve their goals and yours.
 
 This framework is helpful because questions can then be asked at each stage:
 - Telling a story
