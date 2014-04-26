@@ -27,16 +27,16 @@ This framework is helpful because questions can then be asked at each stage:
     * _How do you reach them?_   
       The right content delivered through the right channels
 2. Have a conversation
-    * _Who do they want to talk with?_ 
+    * _Who do they want to talk with?_   
       Each other and you
-    * _What do they want to talk about?_ 
+    * _What do they want to talk about?_   
       Your idea and their experiences
-    * _How should you host the conversation?_ 
+    * _How should you host the conversation?_   
       The right social and community platforms
 3. Lead to action
-    * _What do you want them to do?_ 
+    * _What do you want them to do?_   
       Fulfil their goals and yours
-    * _How do they take action?_ 
+    * _How do they take action?_   
       By changing their behaviour
 
 The answers form the beginnings of an online marketing plan.
