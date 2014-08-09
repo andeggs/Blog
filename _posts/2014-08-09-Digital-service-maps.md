@@ -16,6 +16,8 @@ A major challenge at many organisations is managing the multiple touchpoints, pa
 
 I’ve developed a simple visualisation which helps to address some of these questions. It shows all of the digital services which a particular audience or customer group might interact with.
 
+<a href="/assets/2014-08-09/Digital-chart.jpg"><img src="/assets/2014-08-09/Digital-chart.jpg" width="100%"></a>
+
 The horizontal axis is the _style of interaction_:
 
 * Transactions: When the organisation makes a business-like exchange with others
