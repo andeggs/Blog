@@ -12,7 +12,7 @@ Edward Tufte includes this quote before setting out the 'Theory of Data Graphics
 
 If digital professionals had better visualisations then they would probably be able to make better decisions too.
 
-A major challenge at many organisations is managing the multiple touchpoints, particularly when there are several distinct audience or customer groups. Which customers are being targeted by which channels? Where are there opportunities for growth? Where is there scope for consolidation? 
+A major challenge at many organisations is managing the multiple touchpoints, particularly when there are several distinct audience or customer groups. Which customers are being targeted by which channels? Where are the opportunities for growth? Where is the scope for consolidation? 
 
 I’ve developed a simple visualisation which helps to address some of these questions. It shows all of the digital services which a particular audience or customer group might interact with.
 
