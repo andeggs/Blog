@@ -1,3 +1,10 @@
+---
+layout: post
+published: true
+cover: "/assets/2014-08-09/Tufte_1600_250.jpg"
+thumbnail: "/assets/2014-08-09/Tufte_200_125.jpg"
+title: Digital service maps
+---
 _Everyone spoke of an information overload, but what there was in fact was a non-information overload_
 - Richard Saul Wurman, _What-If, Could-Be_
 
