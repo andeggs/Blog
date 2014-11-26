@@ -2,7 +2,7 @@
 published: true
 layout: post
 cover: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-03-15/spacetime_1600_250.jpg"
-thumbnail: "https://drive.google.com/open?id=0B4-rEYaIcOJGSVJ5VWJiQ3VVWmc&authuser=0"
+thumbnail: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-03-15/spacetime_200_125.jpg"
 ---
 
 Should all digital strategies be the same?
