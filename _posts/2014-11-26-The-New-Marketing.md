@@ -27,7 +27,7 @@ As always, focussing on the user’s needs and experiences is one of the most re
 
 Here’s how I think about the stages of marketing:
 
-- _Demand generation_: Raise awareness of the product e.g. through search, banners, email, social, affiliates.
+- _Demand generation_: Raise awareness of the product e.g. through search, banners, email, social, affiliates, partnerships.
 - _Decision support_: Overcome purchasing barriers e.g. through chat, documentation, blogs, communities, reviews.
 - _On-boarding_: Encourage deeper engagement with the product e.g. through sign up flows, first-run experiences, tutorials, lifecycle emails.
 - _Peer marketing_: Facilitate promotion from existing customers to new customers. e.g. by ‘baking in’ sharing or platform effects.
