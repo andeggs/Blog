@@ -13,7 +13,7 @@ The internet is a competitive space. Experiences must be world-class or customer
 
 Design and manage services to prioritise customer experiences. Use research, data and feedback for continuous improvement.
 
-For more see [https://www.gov.uk/service-manual/user-centred-design/user-needs.html|GDS Service Design manual]
+For more see [GDS Service Design manual](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
 
 ##2. Delivery
 
@@ -23,7 +23,7 @@ Services need different approaches, tools and skills at different points in thei
 
 Use agile for new ventures - move fast and break things. Standardise running services - establish common open standards and processes for technology, content and design. Buy in commodities.
 
-For more see [http://blog.gardeviance.org|Simon Wardley’s blog]
+For more see [http://blog.gardeviance.org](Simon Wardley’s blog)
 
 ##3. Platforms
 
@@ -33,4 +33,4 @@ Bringing people together using digital technologies creates entirely new opportu
 
 Allow people to create value by sharing or exchanging on your platforms or by building on top of your platforms. 
 
-For more see [http://platformed.info|Platform Thinking]
+For more see [http://platformed.info](Platform Thinking)
