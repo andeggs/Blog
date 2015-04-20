@@ -23,7 +23,7 @@ Services need different approaches, tools and skills at different points in thei
 
 Use agile for new ventures - move fast and break things. Standardise running services - establish common open standards and processes for technology, content and design. Buy in commodities.
 
-For more see [http://blog.gardeviance.org](Simon Wardley’s blog)
+For more see [Simon Wardley’s blog](http://blog.gardeviance.org)
 
 ##3. Platforms
 
@@ -33,4 +33,4 @@ Bringing people together using digital technologies creates entirely new opportu
 
 Allow people to create value by sharing or exchanging on your platforms or by building on top of your platforms. 
 
-For more see [http://platformed.info](Platform Thinking)
+For more see [Platform Thinking](http://platformed.info])
