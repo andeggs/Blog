@@ -6,6 +6,8 @@ thumbnail: "/assets/2015-11-08/internet-200-125.jpg"
 title: The new rules of digital marketing
 ---
 
+How can digital marketers co-ordinate content and data across fragmented systems?
+
 “Multichannel marketing at its most complex includes automation, personalisation, attribution and resolution or transaction across every marketing and communications channel.” - _[The Reality of Multichannel Marketing](https://econsultancy.com/reports/the-reality-of-multichannel-marketing)_, Econsultancy
 
 ## Single view, not single place
