@@ -25,10 +25,9 @@ The transition from pipes to platforms requires a shift in thinking:
 
 And interestingly he argues that platforms need _interaction-first thinking_, above user-first thinking
 
-## Competencies
 A whole host of new skills and functions are needed to establish and grow a platform.
 
-### Market making
+## Market making
 
 * Standards: Define services in common ways to enable the market to operate.
 * Quality: Make the quality of each service transparent, whether that is determined centrally or through the community
@@ -36,13 +35,13 @@ A whole host of new skills and functions are needed to establish and grow a plat
 * Matching: Match supply with demand using data and algorithms
 * Ecosystem: Enable an ecosystem of ancillary services through plug and play architecture
 
-### Growth
+## Growth
 
 * Marketing: Attract both producers and consumers to the platform
 * Virality: Design the platform to enable organic sharing with others
 * Lock in: Enable the build up of cumulative value such as reputation, influence, collections or learning filters
 
-### Behaviour and culture
+## Behaviour and culture
 
 * Governance: Establish rules and decision-making procedures
 * Culture: Set community norms such as through moderation and curation
