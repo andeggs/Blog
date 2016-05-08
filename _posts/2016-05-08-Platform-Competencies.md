@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-cover: "/assets/2016-04-06/layers-1600-250.jpg"
-thumbnail: "/assets/2016-04-06/layers-200-125.jpg"
+cover: "/assets/2016-05-08/grid-1600-250.jpg"
+thumbnail: "/assets/2016-05-08/grid-200-125.jpg"
 title: Platform competencies
 ---
 
