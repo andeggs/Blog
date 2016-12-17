@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2015-04-20/Escher-1600-250.jpg"
-thumbnail: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2015-04-20/Escher-200-125.jpg"
+cover: "/assets/2015-04-20/Escher-1600-250.jpg"
+thumbnail: "/assets/2015-04-20/Escher-200-125.jpg"
 ---
 Here are three powerful themes at the heart of digital transformations.
 
