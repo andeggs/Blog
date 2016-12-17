@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-cover: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-11-26/Bees-1600-250.jpg"
-thumbnail: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-11-26/Bees-200-125.jpg"
+cover: "/assets/2014-11-26/Bees-1600-250.jpg"
+thumbnail: "/assets/2014-11-26/Bees-200-125.jpg"
 ---
 I think a lot of people don’t know what marketing should look like in an internet age.
 
