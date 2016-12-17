@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-cover: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-04-26/Connectome1600.jpg"
-thumbnail: "https://dl.dropboxusercontent.com/u/3913602/digitalshift.me/2014-04-26/Connectome200.jpg"
+cover: "/assets/2014-04-26/Connectome1600.jpg"
+thumbnail: "/assets/2014-04-26/Connectome200.jpg"
 title: Changing minds
 ---
 How do you persuade someone of something? 
